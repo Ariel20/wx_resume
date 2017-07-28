@@ -7,6 +7,6 @@
   <view class="usermotto">
     <text class="user-motto">{{motto}}</text>
     <button type="primary" size="{{primarySize}}" loading="{{loading}}" plain="{{plain}}"
-        disabled="{{disabled}}" bindtap="primary"> start </button>
+        disabled="{{disabled}}" bindtap="btn_primary"> start </button>
   </view>
 </view>

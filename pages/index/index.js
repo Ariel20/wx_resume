@@ -12,6 +12,11 @@ Page({
       url: '../logs/logs'
     })
   },
+  btn_primary: function () {
+    wx.navigateTo({
+      url: '../main/main'
+    })
+  },
   onLoad: function () {
     console.log('onLoad')
     var that = this

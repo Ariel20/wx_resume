@@ -1,0 +1,29 @@
+<!--main.wxml-->
+<view class="section">
+    <view class="flex-row">
+      <view class="flex-text" style="width:50%">
+        <text class="mt">梁莹秋</text>
+        <text class="mt">web开发工程师</text>
+      </view>
+      <view class="flex-text" style="width:50%">
+      </view>
+    </view>
+    <view class="flex-row">
+      <view class="flex-text" style="width:50%">
+        <text class="mt">15919xxxxxx</text>
+        <text class="mt">ariel.yq.liang@gmail.com</text>
+        <text class="mt">25岁</text>
+        <text class="mt">广西南宁</text>
+      </view>
+    </view>
+    <view class="flex-row">
+      <view class="flex-item bc_green">学习</view>
+      <view class="flex-item bc_red">工作</view>
+      <view class="flex-item bc_blue">项目</view>
+    </view>
+    <view class="flex-row">
+      <view class="flex-item bc_yellow">开源项目</view>
+      <view class="flex-item bc_perple">博客</view>
+      <view class="flex-item bc_orange">技能树</view>
+    </view>
+</view>

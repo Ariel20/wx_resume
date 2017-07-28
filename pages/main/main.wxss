@@ -1,0 +1,49 @@
+/* pages/main/main.wxss */
+.section{
+    margin-bottom: 20;
+    display:block;
+}
+.flex-row{
+    background: #8e569e;
+    display: flex;
+    flex-direction:row;
+}
+.flex-column{
+    margin-top: 20rpx;
+    margin-bottom: 20rpx;
+    background: #8e569e;
+}
+.flex-item{
+    color: snow;
+    padding: 8rpx;
+    width:33.33%;
+    height:200rpx;
+    text-align: center;
+}
+.bc_green{
+  background: #ebe4ea;
+}
+.bc_red{
+  background: #E8d1e7;
+}
+.bc_blue{
+  background: #d9a3d5;
+}
+.bc_yellow{
+  background: #ab9daa;
+}
+.bc_perple{
+  background: #ab96ab;
+}
+.bc_orange{
+  background: #bf86ae;
+}
+
+.flex-item-text{
+    padding: 8rpx;
+    height:300rpx;
+    text-align: left;
+}
+.mt{
+  display:block;
+}
