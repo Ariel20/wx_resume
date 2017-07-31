@@ -1,0 +1,26 @@
+<!--pages/project/project.wxml-->
+<view class="classname">
+  <text>客户运营中心</text>
+  <image src="src"></image>
+  <text></text>
+</view>
+<view class="classname">
+  <text>游密官网</text>
+  <image src="src"></image>
+  <text></text>
+</view>
+<view class="classname">
+  <text>数据监控系统</text>
+  <image src="src"></image>
+  <text></text>
+</view>
+<view class="classname">
+  <text>高清影视平台</text>
+  <image src="src"></image>
+  <text></text>
+</view>
+<view class="classname">
+  <text>智能监控系统</text>
+  <image src="src"></image>
+  <text></text>
+</view>

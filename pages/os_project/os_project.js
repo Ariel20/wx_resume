@@ -1,4 +1,4 @@
-// pages/index/main.js
+// pages/op_project/op_project.js
 Page({
 
   /**
@@ -6,39 +6,6 @@ Page({
    */
   data: {
   
-  },
-  /**
-   * 页面的点击事件
-   */
-  learn: function () {
-    wx.navigateTo({
-      url: '../learn/learn'
-    })
-  },
-  work: function () {
-    wx.navigateTo({
-      url: '../work/work'
-    })
-  },
-  project: function () {
-    wx.navigateTo({
-      url: '../project/project'
-    })
-  },
-  op_project: function () {
-    wx.navigateTo({
-      url: '../os_project/os_project'
-    })
-  },
-  blog: function () {
-    wx.navigateTo({
-      url: '../blog/blog'
-    })
-  },
-  tech: function () {
-    wx.navigateTo({
-      url: '../tech/tech'
-    })
   },
 
   /**

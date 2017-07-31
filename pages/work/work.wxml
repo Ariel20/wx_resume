@@ -1,0 +1,40 @@
+<!--pages/work/work.wxml-->
+<view class="classname">
+  <text>南宁富桂精密工业有限公司（2014.7-2016.2）</text>
+  <text>工作内容</text>
+  <view class="classname">
+    <text>智能监控系统</text>
+    <text>前后端开发</text>
+    <text>UI设计</text>
+    <text>日常运营与维护</text>
+    <button>查看详情</button>
+  </view>
+  <view class="classname">
+    <text>高清影视平台</text>
+    <text>前后端开发</text>
+    <text>日常运营与维护</text>
+    <button>查看详情</button>
+  </view>
+</view>
+<view class="classname">
+  <text>上海游密信息科技有限公司（2016.3-2017.5）</text>
+  <text>工作内容</text>
+  <view class="classname">
+    <text>数据监控系统</text>
+    <text>前后端开发</text>
+    <text>日常运营与维护</text>
+    <button>查看详情</button>
+  </view>
+  <view class="classname">
+    <text>客户运营中心</text>
+    <text>前后端开发</text>
+    <text>日常运营与维护</text>
+    <button>查看详情</button>
+  </view>
+  <view class="classname">
+    <text>游密官网</text>
+    <text>前后端开发</text>
+    <text>日常运营与维护</text>
+    <button>查看详情</button>
+  </view>
+</view>

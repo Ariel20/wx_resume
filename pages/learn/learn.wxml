@@ -1,0 +1,23 @@
+<!--pages/learn/learn.wxml-->
+<view class="classname">
+  <image style="width: 100px; height: 100px; background-color: #eeeeee;" src="../../resource/images/GUET.jpg"></image>
+  <text>智能科学与技术-本科</text>
+  <text>2010-2014</text>
+</view>
+<view class="classname">
+  <text>英文水平</text>
+  <text>CET6</text>
+  <text></text>
+  <text></text>
+</view>
+<view class="classname">
+  <text>专业课程</text>
+  <text>C语言程序设计</text>
+  <text>数据结构(基于C语言)</text>
+  <text>微机原理与汇编语言</text>
+  <text>模式识别</text>
+  <text>图像处理</text>
+  <text>自动控制原理</text>
+  <text>计算机网络</text>
+  <text>人机交互</text>
+</view>

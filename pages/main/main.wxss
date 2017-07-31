@@ -32,7 +32,7 @@
 .bc_yellow{
   background: #ab9daa;
 }
-.bc_perple{
+.bc_purple{
   background: #ab96ab;
 }
 .bc_orange{

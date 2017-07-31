@@ -2,6 +2,12 @@
   "pages":[
     "pages/index/index",
     "pages/main/main",
+    "pages/learn/learn",
+    "pages/work/work",
+    "pages/project/project",
+    "pages/os_project/os_project",
+    "pages/blog/blog",
+    "pages/tech/tech",
     "pages/logs/logs"
   ],
   "window":{
